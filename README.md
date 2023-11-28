@@ -1,4 +1,5 @@
-## Hello! My name **Nikita Novikov** and now i am **Java developer** <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" 
+## Hello! My name **Nikita Novikov** and now i am **Java developer**
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" 
 
 -  I started my career in the field of testing for the effects of external factors on climatic and mechanical stands.
 -  But this type of activity does not allow me to realize my full potential. I started learning java programming language with pleasure.
