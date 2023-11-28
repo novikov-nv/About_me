@@ -3,7 +3,7 @@
 -  My name **Nikita Novikov** and now i am **Java developer** <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 -  I started my career in the field of testing for the effects of external factors on climatic and mechanical stands.
 -  But this type of activity does not allow me to realize my full potential. I started learning java programming language with pleasure.
--  In December 2023, I graduated from Netology at the Java Developer course.  In parallel, I took JavaRush programming courses.
+-  In December 2023, I graduated from **Netology** at the Java Developer course.  In parallel, I took **JavaRush** programming courses.
 -  I am ready to start working as a java developer.
 -  I strive to develop in the field of development and become a professional. I am interested in what I am doing now, and I want to continue exploring new areas.
 
