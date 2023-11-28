@@ -16,6 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="intellij IDEA" alt="intellij IDEA" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache maven" alt="Apache maven" width="40" height="40"/>&nbsp;
@@ -33,13 +34,14 @@
 
 ---
 ##  ⚡  My Certifications :
-* [Диплом о профессиональной переподготовке]()
-* [Основы Java]()
-* [Java Core]()
-* [Алгоритмы]()
-* [Git]()
-* [Шаблоны проектирования]()
-* [Многопоточное и функциональное программирование]()
-* [Web, Spring, Spring MVC]()
-* [Spring Boot, deployment и инфраструктура]()
-* [Хранение данных и организация безопасности]()
+* [Diploma of professional retraining](https://github.com/Gangster177/About-me/blob/main/java_developer.pdf)
+* [BasicsJava](https://github.com/Gangster177/About-me/blob/main/certificate_BasicsJava.pdf)
+* [Java Core](https://github.com/Gangster177/About-me/blob/main/certificateJavaCore.pdf)
+* [OOP](https://github.com/Gangster177/About-me/blob/main/certificate_oop.pdf)
+* [Algorithms](https://github.com/Gangster177/About-me/blob/main/certificate_Algo.pdf)
+* [Git](https://github.com/Gangster177/About-me/blob/main/certificate_GIT.pdf)
+* [Design patterns](https://github.com/Gangster177/About-me/blob/main/certificate_pattern.pdf)
+* [Multithreaded and functional programming](https://github.com/Gangster177/About-me/blob/main/certificate_Multithreading.pdf)
+* [Web, Spring, Spring MVC](https://github.com/Gangster177/About-me/blob/main/certificate_Web_SpringMVC.pdf)
+* [Spring Boot, deployment](https://github.com/Gangster177/About-me/blob/main/certificateSpringBoot.pdf)
+* [Data storage and security organization](https://github.com/Gangster177/About-me/blob/main/certificate_JDBC_API_Security.pdf)
